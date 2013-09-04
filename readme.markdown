@@ -6,7 +6,7 @@ _by [Barry Schwartz](http://www.crudfactory.com)_
 
 Based on work of a famous Czech-American type designer of yesteryear. The package includes roman and italic.
 
-For more information about the typeface, read this Wikipedia article: [link]
+For more information about the typeface, read this Wikipedia article: [link](http://en.wikipedia.org/wiki/Fairfield_%28typeface%29)
 
     Notes from Barry:
     
